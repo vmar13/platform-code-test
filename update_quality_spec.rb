@@ -1,5 +1,8 @@
 require 'rspec'
-require 'update_quality'
+# require 'update_quality'
+require 'award'
+require 'blue_first'
+
 
 describe '#update_quality' do
 
